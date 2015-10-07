@@ -1,1 +1,1 @@
-H/6 * * * * 
+*/6 * * * * ./var/lib/jenkins/backups/sandbox/backup.sh 
