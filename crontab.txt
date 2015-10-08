@@ -1,1 +1,1 @@
-1-59/5 * * * * /var/lib/jenkins/backups/sandbox/backup.sh 
+1-59/5 * * * * /var/lib/jenkins/backups/sandbox/backup.sh > /var/lib/jenkins/backups/sandbox/log 2>&1 
